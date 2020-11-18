@@ -1,0 +1,24 @@
+{
+  "name": "express-js-boilerplate",
+  "version": "1.0.0",
+  "description": "Express js boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "None (For Now) :("
+  },
+  "keywords": [
+    "Express",
+    "Node"
+  ],
+  "author": "Hemagna Rao <hemagna.rao@gmail.com> (https://hemagna.ga/)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
