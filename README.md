@@ -5,4 +5,5 @@ npm i express && npm i prompt-sync
 ```
 and
 ```bash
+npm start
 ```
