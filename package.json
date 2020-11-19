@@ -19,6 +19,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "prompt-sync": "^4.2.0"
+    "nodemon": "^2.0.6"
   }
 }
