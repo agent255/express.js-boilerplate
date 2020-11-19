@@ -1,10 +1,8 @@
 // jshint esversion: 6
 /*
  *   express.js server boilerplate
- *   Run with either -
+ *   Run with  -
  *   "node server.js"
- *   OR
- *   "nodemon server.js"
  */
 
 const express = require("express");
