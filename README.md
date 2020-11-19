@@ -5,5 +5,5 @@ npm i
 ```
 and
 ```bash
-npm start
+node server.js [PORT NUMBER]
 ```
