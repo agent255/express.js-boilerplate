@@ -1,7 +1,7 @@
 # express.js-boilerplate
-to setup use - 
+for setup run this inside the directory of the cloned boilerplate - 
 ```bash
-npm i express && npm i prompt-sync
+npm i 
 ```
 and
 ```bash
