@@ -4,8 +4,8 @@
   "description": "Express js boilerplate",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js",
-    "start": "node server.js"
+    "test": "node server.js 80",
+    "start": "node server.js 80"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,6 @@
   "author": "Hemagna Rao <hemagna.rao@gmail.com> (https://hemagna.ga/)",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "nodemon": ""
+    "express": "^4.17.1"
   }
 }

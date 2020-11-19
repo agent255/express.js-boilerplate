@@ -3,13 +3,12 @@
 /*
  *   express.js server boilerplate
  *   Run with  -
- *   "node server.js"
+ *   "nodemon server.js [YOUR_PORT_NUMBER]"
  */
 
 const express = require("express");
 const app = express();
-const port = process.argv.slice(2)[0]; // getting the port number from node server.js 3000
-
+const port = process.argv.slice(2)[0]
 
 if (isNaN(port)) {
   //port should be a number
